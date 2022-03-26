@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/botao_numero_clicado.xml" value="0.2805" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/botao_operator_clicado.xml" value="0.146" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2805" />
         <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/shape_numero_normal.xml" value="0.1225" />
-        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/layout/activity_main.xml" value="0.24719101123595505" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/shape_numero_selecionavel.xml" value="0.2805" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/shape_operator_normal.xml" value="0.2805" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/drawable/shape_operator_selecionavel.xml" value="0.146" />
+        <entry key="..\:/Desenvolvimento de Softwares/Calculator/app/src/main/res/layout/activity_main.xml" value="0.21455938697318008" />
       </map>
     </option>
   </component>

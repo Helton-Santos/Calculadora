@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/white"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <androidx.appcompat.widget.AppCompatTextView
@@ -13,8 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:text=""
-        android:textColor="@color/black"
-        android:textSize="40sp"
+        android:textColor="#14A597"
+        android:textSize="30sp"
         android:gravity="end"
         android:layout_marginEnd="10dp"
         android:ellipsize="start"
@@ -26,8 +26,8 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:text=""
-        android:textColor="@color/black"
-        android:textSize="30sp"
+        android:textColor="#14A597"
+        android:textSize="50sp"
         android:gravity="end"
         android:layout_marginEnd="10dp"
         android:ellipsize="end"
