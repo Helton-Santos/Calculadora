@@ -1,1 +1,1 @@
-# Simple Calculator for basic operations.
+# Simple Calculator app for basic operations.
